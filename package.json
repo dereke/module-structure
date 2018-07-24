@@ -1,0 +1,9 @@
+{
+  "name": "ptest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lowscore": "^1.17.0"
+  }
+}
